@@ -12,4 +12,3 @@ elif age <= 18:
 	print("you are ineligible you can't proceed")
 
 This project is a school website that accepts student above 18 years old 
-Correction:
