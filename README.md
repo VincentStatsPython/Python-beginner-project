@@ -1,1 +1,1 @@
-vincent Hub.py
+vincent Hub.py is a student portal for application for admission 
